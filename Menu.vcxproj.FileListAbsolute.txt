@@ -1,0 +1,10 @@
+C:\Users\student\Documents\PRAPP\Menu\x64\Debug\Menu.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\PRAPP\Menu\x64\Debug\Menu.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\student\Documents\PRAPP\Menu\x64\Debug\Menu.MyForm.resources
+C:\Users\student\Documents\PRAPP\Menu\x64\Debug\Menu.vcxproj.GenerateResource.cache
+C:\Users\student\Documents\PRAPP\Menu\x64\Debug\Menu.exe
+C:\Users\student\Pictures\PRAPP\Menu\x64\Debug\Menu.vcxproj.AssemblyReference.cache
+C:\Users\student\Pictures\PRAPP\Menu\x64\Debug\Menu.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\student\Pictures\PRAPP\Menu\x64\Debug\Menu.MyForm.resources
+C:\Users\student\Pictures\PRAPP\Menu\x64\Debug\Menu.vcxproj.GenerateResource.cache
+C:\Users\student\Pictures\PRAPP\Menu\x64\Debug\Menu.exe
